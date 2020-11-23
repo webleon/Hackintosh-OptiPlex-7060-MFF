@@ -211,6 +211,10 @@
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
+				<key>No-hda-gfx</key>
+				<data>
+				qqqqqqoK
+				</data>
 				<key>layout-id</key>
 				<data>
 				CwAAAA==
