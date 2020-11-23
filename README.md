@@ -3,7 +3,9 @@
 
 ## Introdution
 This is the Hackintosh EFI Folder for Dell OptiPlex 7060 Micro Form Factor. The configuration settings support MacOS Big Sur. 
-ALC255 Audio didn't work with default OC configuration caused by IRQ conflicts. These has been patched with [SSDTTime](https://github.com/corpnewt/SSDTTime) 
+
+ALC255 Audio didn't work with default OC configuration caused by IRQ conflicts. These has been patched with [SSDTTime](https://github.com/corpnewt/SSDTTime) .
+
 You will have to [**generate a new SMIBIOS**](https://github.com/corpnewt/GenSMBIOS) before login to your iCloud account.
 
 ## Hardware Specs
