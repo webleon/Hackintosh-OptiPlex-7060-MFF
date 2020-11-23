@@ -19,7 +19,7 @@ You will have to [**generate a new SMIBIOS**](https://github.com/corpnewt/GenSMB
 ## Working
 * CPU Turbo Boost & Thermal Throttling
 * iGPU acceleration
-* ALC 255 audio
+* ALC255 audio
 * All USB Ports
 * LAN & Wireless Network
 * Airdrop & Airplay
