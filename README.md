@@ -1,5 +1,5 @@
 # Hackintosh-OptiPlex-7060-MFF
-**Opencore Bootloader Big Sur 11.0.1**
+**Bootloader tested on Big Sur 11.0.1**
 
 ## Introdution
 This is the Hackintosh EFI Folder for Dell OptiPlex 7060 Micro Form Factor. The configuration settings support MacOS Big Sur. 
