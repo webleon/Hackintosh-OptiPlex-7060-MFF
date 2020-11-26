@@ -13,7 +13,7 @@ You will have to [**generate a new SMIBIOS**](https://github.com/corpnewt/GenSMB
 * **CPU**: [Intel® Core™ i5-8600T](https://ark.intel.com/content/www/us/en/ark/products/129938/intel-core-i5-8600t-processor-9m-cache-up-to-3-70-ghz.html)
 * **iGPU**: Intel® UHD Graphics 630
 * **RAM**: 32GB DDR4 2666 Daul Channel
-* **HDD**: TOSHIBA SN550 NVMe SSD 1T
+* **HDD**: WD SN550 NVMe SSD 1T
 * **Wi-Fi & Bluetooth**: BCM94360CS2 with NGFF Adapter
 
 ## Working
