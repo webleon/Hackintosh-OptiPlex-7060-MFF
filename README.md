@@ -26,7 +26,7 @@ You will have to [**generate a new SMIBIOS**](https://github.com/corpnewt/GenSMB
 * Partly Sleep & Wakeup
 
 ## Not working
-* 
+* HDMI/DP Sound (Disabled because of the conflict with AppleALC.)
 
 ## BIOS Settings
 * General → Advanced Boot Options: ***uncheck***
