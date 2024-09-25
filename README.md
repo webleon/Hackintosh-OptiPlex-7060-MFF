@@ -1,8 +1,8 @@
 # Hackintosh-OptiPlex-7060-MFF
-**Bootloader tested on Big Sur 11.0.1**
+**Bootloader tested on Sequoia 15.0**
 
 ## Introdution
-This is the Hackintosh EFI Folder for Dell OptiPlex 7060 Micro Form Factor. The configuration settings support MacOS Big Sur. 
+This is the Hackintosh EFI Folder for Dell OptiPlex 7060 Micro Form Factor. The configuration settings support MacOS Sequoia. 
 
 ALC255 Audio didn't work with default OC configuration caused by IRQ conflicts, has been patched with [SSDTTime](https://github.com/corpnewt/SSDTTime) .
 
