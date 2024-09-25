@@ -1,5 +1,5 @@
 # Hackintosh-OptiPlex-7060-MFF
-**Bootloader tested on Sequoia 15.0**
+**Opencore 1.0.1 tested on Sequoia 15.0**
 
 ## Introdution
 This is the Hackintosh EFI Folder for Dell OptiPlex 7060 Micro Form Factor. The configuration settings support MacOS Sequoia. 
